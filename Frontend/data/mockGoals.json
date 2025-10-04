@@ -1,0 +1,13 @@
+[
+{
+"id": "g1",
+"title": "Emergency Fund",
+"targetAmount": 30000,
+"currentAmount": 4500,
+"dueDate": "2026-03-01T00:00:00.000Z",
+"milestones": [
+{ "id": "m1", "title": "1 month expenses", "amount": 10000, "reached": false },
+{ "id": "m2", "title": "3 months", "amount": 30000, "reached": false }
+]
+}
+]

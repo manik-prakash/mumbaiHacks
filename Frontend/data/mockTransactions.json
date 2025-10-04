@@ -1,0 +1,18 @@
+[
+{
+"id": "t1",
+"title": "Food - Lunch",
+"amount": 120,
+"type": "expense",
+"categoryId": "c_food",
+"date": "2025-09-28T12:10:00.000Z"
+},
+{
+"id": "t2",
+"title": "Freelance - UI Design",
+"amount": 5000,
+"type": "income",
+"categoryId": "c_freelance",
+"date": "2025-09-25T09:20:00.000Z"
+}
+]

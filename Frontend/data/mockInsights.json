@@ -1,0 +1,9 @@
+[
+{
+"id": "i1",
+"title": "Dining spike",
+"body": "You spent 30% more on dining compared to last week. Consider setting a meal budget or cooking thrice a week.",
+"createdAt": "2025-09-29T06:00:00.000Z",
+"severity": "info"
+}
+]
